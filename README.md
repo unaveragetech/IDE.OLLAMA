@@ -1,7 +1,8 @@
-Here is a draft of the README for the `ide.py` script based on the provided details:
+
 
 # IDE.OLLAMA
-
+[Sys docs]()
+[Further reading]()
 ## Overview
 IDE.OLLAMA is a community-driven project aimed at creating a lightweight, single-script Integrated Development Environment (IDE) for beginners and users who are tired of learning complex frameworks. The goal is to leverage Ollama and clever coding practices to maintain a powerful yet compact IDE for average users.
 
