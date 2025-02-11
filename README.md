@@ -1,7 +1,7 @@
 ---
 
 # 🌟 IDE.OLLAMA 🌟
-[📝 System Documentation](SYSTEM_DOCUMENTATION.md) | [📚 Further Reading](Details.md) | [📚 Download ollama windows](https://ollama.com/download/OllamaSetup.exe)
+[📝 System Documentation](SYSTEM_DOCUMENTATION.md) | [📚 Further Reading](Details.md) | [🛠️ Download ollama windows](https://ollama.com/download/OllamaSetup.exe)  | [ 🚀 ollama Github](https://github.com/ollama/ollama?tab=readme-ov-file)
 
 ## Overview
 IDE.OLLAMA is a community-driven project aimed at creating a lightweight, single-script Integrated Development Environment (IDE) for beginners and users who are tired of learning complex frameworks. The goal is to leverage Ollama and clever coding practices to maintain a powerful yet compact IDE for average users.
