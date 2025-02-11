@@ -1,25 +1,24 @@
+---
 
+# 🌟 IDE.OLLAMA 🌟
+[📝 System Documentation](SYSTEM_DOCUMENTATION.md) | [📚 Further Reading](Details.md)
 
-# IDE.OLLAMA
-[Sys docs](SYSTEM_DOCUMENTATION.md)
-
-[Further reading](Details.md)
 ## Overview
 IDE.OLLAMA is a community-driven project aimed at creating a lightweight, single-script Integrated Development Environment (IDE) for beginners and users who are tired of learning complex frameworks. The goal is to leverage Ollama and clever coding practices to maintain a powerful yet compact IDE for average users.
 
-## Project Goals
-- Create a centralized, singular script (`ide.py`) serving as a lightweight IDE.
-- Ensure all functionality is built into the `ide.py` script.
-- Allow writing and maintaining other scripts and files at runtime, but include all standard functions within the main script.
-- Maintain clean, modular, and extendable code sections.
+## 🎯 Project Goals
+- 🗃️ Create a centralized, singular script (`ide.py`) serving as a lightweight IDE.
+- 🛠️ Ensure all functionality is built into the `ide.py` script.
+- ✨ Allow writing and maintaining other scripts and files at runtime, but include all standard functions within the main script.
+- 🧹 Maintain clean, modular, and extendable code sections.
 
-## Repository Rules
+## 📜 Repository Rules
 1. **Single Main Program**: The main program must be `ide.py`.
 2. **Functionality**: All core functionality must be built into `ide.py`. Additional scripts and files can be created at runtime but should not contain standard functions.
 3. **Modularity**: Each function should be semi-modular, extendable, or removable without breaking overall functionality.
 4. **Clean Code**: Code must be clean and organized in sections denoted by spacers in the script.
 
-## Features
+## 🌟 Features
 - **Configuration Management**: Load and manage configurations from a `config.json` file.
 - **Embedding Cache**: Persistent in-memory cache for embeddings.
 - **API Helper Functions**: Retrieve embeddings and generate chat responses using the Ollama API.
@@ -29,7 +28,7 @@ IDE.OLLAMA is a community-driven project aimed at creating a lightweight, single
 - **Dynamic Content Adjustment**: Extract file references and build dynamic context for chat interactions.
 - **Interactive Commands**: Modify code, explain the codebase, handle tracebacks, retrieve context, start interactive flows, and more.
 
-## Getting Started
+## 🚀 Getting Started
 To get started with IDE.OLLAMA:
 1. Ensure you have Ollama running.
 2. Fork the repository.
@@ -43,7 +42,7 @@ python ide.py
 
 Follow the on-screen instructions to use various commands and features.
 
-## Contributing
+## 🤝 Contributing
 We welcome contributions to enhance IDE.OLLAMA. To contribute:
 1. Fork the repository.
 2. Create a new branch for your changes.
@@ -70,12 +69,12 @@ We welcome contributions to enhance IDE.OLLAMA. To contribute:
     ```
 5. **Submit a Pull Request**: Go to your fork on GitHub and open a Pull Request to the main repository.
 
-## License
-This project is licensed under the MIT License. See the `Sduc` file for details.
+## 📜 License
+This project is licensed under the Sduc License. See the `Sduc` file for details.
 
-## Contact
+## 📞 Contact
 For any questions or support, open an issue on the GitHub repository.
 
 ---
 
-Happy coding with IDE.OLLAMA!
+✨ Happy coding with IDE.OLLAMA! ✨
